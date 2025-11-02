@@ -1,0 +1,78 @@
+[
+  {
+    "name": "btop++",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/btop.png"
+  },
+  {
+    "name": "Calf Plugin Pack for JACK",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/calf.png"
+  },
+  {
+    "name": "Pinentry",
+    "icon": "/usr/share/pixmaps/pinentry.png"
+  },
+  {
+    "name": "Visual Studio Code - URL Handler",
+    "icon": "/usr/share/pixmaps/visual-studio-code.png"
+  },
+  {
+    "name": "Signal Beta",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/signal-desktop-beta.png"
+  },
+  {
+    "name": "Pinentry",
+    "icon": "/usr/share/pixmaps/pinentry.png"
+  },
+  {
+    "name": "KDiskMark",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/kdiskmark.png"
+  },
+  {
+    "name": "Steam",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/steam.png"
+  },
+  {
+    "name": "kitty",
+    "icon": "/usr/share/pixmaps/kitty.png"
+  },
+  {
+    "name": "Ark",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/ark.png"
+  },
+  {
+    "name": "kitty URL Launcher",
+    "icon": "/usr/share/pixmaps/kitty.png"
+  },
+  {
+    "name": "qutebrowser",
+    "icon": "/usr/share/icons/hicolor/48x48/apps/qutebrowser.png"
+  },
+  {
+    "name": "Visual Studio Code",
+    "icon": "/usr/share/pixmaps/visual-studio-code.png"
+  },
+  {
+    "name": "Spotify",
+    "icon": "/usr/share/pixmaps/spotify-client.png"
+  },
+  {
+    "name": "Dreamscaper",
+    "icon": "/home/sebi/.local/share/icons/hicolor/48x48/apps/steam_icon_1040420.png"
+  },
+  {
+    "name": "Portal 2",
+    "icon": "/home/sebi/.local/share/icons/hicolor/48x48/apps/steam_icon_620.png"
+  },
+  {
+    "name": "Scrap Mechanic",
+    "icon": "/home/sebi/.local/share/icons/hicolor/48x48/apps/steam_icon_387990.png"
+  },
+  {
+    "name": "BeamNG.drive",
+    "icon": "/home/sebi/.local/share/icons/hicolor/48x48/apps/steam_icon_284160.png"
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "icon": "/home/sebi/.local/share/icons/hicolor/48x48/apps/steam_icon_990080.png"
+  }
+]

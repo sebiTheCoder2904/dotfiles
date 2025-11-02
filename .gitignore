@@ -1,0 +1,41 @@
+# Ignore everything by default
+*
+
+# But don't ignore these specific items
+
+# Allow the .gitignore file itself
+!.gitignore
+
+# Allow specific config folders and their contents
+!hypr/
+!hypr/**
+
+!kitty/
+!kitty/**
+
+!rofi/
+!rofi/**
+
+!mpv/input.conf
+!mpv/mpv.conf
+
+
+!btop/
+!btop/**
+
+!qt6ct/
+!qt6ct/**
+
+!quickshell/
+!quickshell/**
+
+!qutebrowser/
+!qutebrowser/**
+
+!rncbc.org/
+!rncbc.org/**
+
+# Allow specific files
+!kdeglobals
+
+
