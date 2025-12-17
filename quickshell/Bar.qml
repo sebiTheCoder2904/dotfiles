@@ -3,6 +3,7 @@ import Quickshell
 import Quickshell.Io
 import QtQuick
 import Quickshell.Hyprland
+import Quickshell.Services.Pipewire  // Add this import
 
 Scope {
     id: root
@@ -26,8 +27,6 @@ Scope {
             }
         }
 
-        required property var modelData
-        screen: modelData
         color: '#00000000' // Transparent background
 
         // x: -20 // Move sidebar 20px off the left edge
@@ -56,23 +55,34 @@ Scope {
             anchors.fill: parent
             onClicked: {
                 barWindow.toggle();
-                // console.log("Margins left set to: " + margins.left);
             }
         }
 
         VerticalClock {}
-        BarVolumeSlider {}
+
+        // ensure the volume slider is declared first so its id exists for anchoring
+        BarVolumeSlider {
+            id: volumeSliderContainer
+        }
+        
+        BarAudioMixer { 
+            id: audioMixerContainer
+        }
+
+        // AudioOutputMenu {
+        //     anchors {
+        //         left: parent.left
+        //         leftMargin: 12
+        //         right: volumeSliderContainer.left
+        //         rightMargin: 10
+        //         top: volumeSliderContainer.top
+        //         bottom: volumeSliderContainer.bottom
+        //     }
+        //     // allow the menu to stretch between left edge and the slider
+        //     z: 1
+        // }
+
         HyprDesktops {}
         HomeButton {}
-        AppLauncher {
-            anchors {
-                left: parent.left
-                leftMargin: 10
-                top: parent.top
-                topMargin: 10
-            }
-            width: 400
-            height: 400
-        }
     }
 }

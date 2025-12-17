@@ -1,0 +1,124 @@
+[General]
+ColorScheme=Breeze Dark
+Name=Dark Dream
+shadeSortColumn=true
+
+[ColorEffects%3ADisabled]
+Color=56, 56, 56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects%3AInactive]
+ChangeSelectionColor=false
+Color=112, 111, 110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[ColorScheme]
+active_colors=#fffcfcfc, #ff000000, #ffaeaeae, #ff8d8d8d, #ff000000, #ff000000, #fffcfcfc, #ffffffff, #fffcfcfc, #ff000000, #ff000000, #ff000000, #ff3daee9, #fffcfcfc, #ff1d99f3, #ff9b59b6, #ff000000, #ff000000, #ff000000, #fffcfcfc, #ffa1a9b1, #ff3daee9
+disabled_colors=#ff545454, #ff000000, #ffaeaeae, #ff8d8d8d, #ff000000, #ff000000, #ff545454, #ffffffff, #ff545454, #ff000000, #ff000000, #ff000000, #ff000000, #ff545454, #ff0a3351, #ff341e3d, #ff000000, #ff000000, #ff000000, #fffcfcfc, #ff36383b, #ff000000
+inactive_colors=#fffcfcfc, #ff000000, #ffaeaeae, #ff8d8d8d, #ff000000, #ff000000, #fffcfcfc, #ffffffff, #fffcfcfc, #ff000000, #ff000000, #ff000000, #ff13384a, #fffcfcfc, #ff1d99f3, #ff9b59b6, #ff000000, #ff000000, #ff000000, #fffcfcfc, #ffa1a9b1, #ff13384a
+
+[Colors%3AButton]
+BackgroundAlternate=0, 0, 0
+BackgroundNormal=0, 0, 0
+DecorationFocus=40, 115, 153
+DecorationHover=0, 0, 0
+ForegroundActive=0, 0, 0
+ForegroundInactive=189, 195, 199
+ForegroundLink=41, 128, 185
+ForegroundNegative=218, 68, 83
+ForegroundNeutral=246, 116, 0
+ForegroundNormal=239, 240, 241
+ForegroundPositive=39, 174, 96
+ForegroundVisited=127, 140, 141
+
+[Colors%3AComplementary]
+BackgroundAlternate=0, 0, 0
+BackgroundNormal=0, 0, 0
+DecorationFocus=30, 146, 255
+DecorationHover=30, 146, 255
+ForegroundActive=246, 116, 0
+ForegroundInactive=175, 176, 179
+ForegroundLink=61, 174, 230
+ForegroundNegative=237, 21, 21
+ForegroundNeutral=201, 206, 59
+ForegroundNormal=239, 240, 241
+ForegroundPositive=17, 209, 22
+ForegroundVisited=61, 174, 230
+
+[Colors%3ASelection]
+BackgroundAlternate=29, 153, 243
+BackgroundNormal=26, 77, 102
+DecorationFocus=40, 115, 153
+DecorationHover=27, 80, 106
+ForegroundActive=26, 77, 102
+ForegroundInactive=239, 240, 241
+ForegroundLink=253, 188, 75
+ForegroundNegative=218, 68, 83
+ForegroundNeutral=246, 116, 0
+ForegroundNormal=239, 240, 241
+ForegroundPositive=39, 174, 96
+ForegroundVisited=189, 195, 199
+
+[Colors%3ATooltip]
+BackgroundAlternate=0, 0, 0
+BackgroundNormal=0, 0, 0
+DecorationFocus=40, 115, 153
+DecorationHover=27, 80, 106
+ForegroundActive=26, 77, 102
+ForegroundInactive=189, 195, 199
+ForegroundLink=41, 128, 185
+ForegroundNegative=218, 68, 83
+ForegroundNeutral=246, 116, 0
+ForegroundNormal=239, 240, 241
+ForegroundPositive=39, 174, 96
+ForegroundVisited=127, 140, 141
+
+[Colors%3AView]
+BackgroundAlternate=0, 0, 0
+BackgroundNormal=0, 0, 0
+DecorationFocus=40, 115, 153
+DecorationHover=27, 80, 106
+ForegroundActive=26, 77, 102
+ForegroundInactive=189, 195, 199
+ForegroundLink=41, 128, 185
+ForegroundNegative=218, 68, 83
+ForegroundNeutral=246, 116, 0
+ForegroundNormal=239, 240, 241
+ForegroundPositive=39, 174, 96
+ForegroundVisited=127, 140, 141
+
+[Colors%3AWindow]
+BackgroundAlternate=0, 0, 0
+BackgroundNormal=0, 0, 0
+DecorationFocus=40, 115, 153
+DecorationHover=27, 80, 106
+ForegroundActive=26, 77, 102
+ForegroundInactive=189, 195, 199
+ForegroundLink=41, 128, 185
+ForegroundNegative=218, 68, 83
+ForegroundNeutral=246, 116, 0
+ForegroundNormal=239, 240, 241
+ForegroundPositive=39, 174, 96
+ForegroundVisited=127, 140, 141
+
+[KDE]
+contrast=4
+
+[WM]
+activeBackground=0, 0, 0
+activeBlend=255, 255, 255
+activeForeground=239, 240, 241
+inactiveBackground=0, 0, 0
+inactiveBlend=75, 71, 67
+inactiveForeground=127, 140, 141

@@ -21,8 +21,8 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=30,87,116
-BackgroundNormal=41,44,48
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -35,8 +35,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Complementary]
-BackgroundAlternate=30,87,116
-BackgroundNormal=32,35,38
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -49,8 +49,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header]
-BackgroundAlternate=32,35,38
-BackgroundNormal=41,44,48
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -63,8 +63,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header][Inactive]
-BackgroundAlternate=41,44,48
-BackgroundNormal=32,35,38
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -91,8 +91,8 @@ ForegroundPositive=23,104,57
 ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
-BackgroundAlternate=32,35,38
-BackgroundNormal=41,44,48
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -105,8 +105,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:View]
-BackgroundAlternate=29,31,34
-BackgroundNormal=20,22,24
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -119,8 +119,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Window]
-BackgroundAlternate=41,44,48
-BackgroundNormal=32,35,38
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -132,17 +132,12 @@ ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
-[DirSelect Dialog]
-DirSelectDialog Size=920,1230
-History Items[$e]=file:$HOME/Documents/PlatformIO/Projects/platformio/stepperC3D,file:$HOME/Documents/PlatformIO/Projects/platformio/stepperC3D,file:$HOME/Projects/sebirave,sftp://sebi@sebirave:22/home/sebi/Projects,file:$HOME/Downloads/apks,file:$HOME/Documents/scantest,file:///,file:$HOME/Documents/Modern-Drumming,file:$HOME/Documents/Modern-Drumming,file:$HOME/ssd,file:$HOME/ssd,file:///mnt/ssd,file:$HOME,file:$HOME/Downloads/Utterly-Sweet,file:$HOME/Downloads/Utterly-Sweet-kvantum,file:$HOME/Downloads/Utterly-Sweet-kvantum,file:$HOME/Downloads/Utterly-Sweet-kvantum,file:$HOME/Downloads/Utterly-Sweet-kvantum,file:$HOME/Downloads/KvGlass
-Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-
 [General]
 ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
 UseSystemBell=true
 
 [Icons]
-Theme=breeze
+Theme=breeze-dark
 
 [KDE]
 AnimationDurationFactor=0.5
@@ -160,7 +155,7 @@ Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
-Sort by=Name
+Sort by=Date
 Sort directories first=true
 Sort hidden files last=false
 Sort reversed=false
@@ -172,9 +167,9 @@ EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
 
 [WM]
-activeBackground=39,44,49
+activeBackground=0,0,0
 activeBlend=252,252,252
 activeForeground=252,252,252
-inactiveBackground=32,36,40
+inactiveBackground=0,0,0
 inactiveBlend=161,169,177
 inactiveForeground=161,169,177

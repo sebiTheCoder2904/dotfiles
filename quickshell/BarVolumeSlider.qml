@@ -32,7 +32,7 @@ Rectangle {
             target: Pipewire.defaultAudioSink?.audio
         }
 
-        implicitHeight: 100
+        implicitHeight: 200
         implicitWidth: 10
         color: '#42ffffff'
         anchors.horizontalCenter: parent.horizontalCenter

@@ -7,10 +7,11 @@
 config_version: 2
 settings:
   colors.webpage.darkmode.enabled:
-    global: true
+    global: false
   content.javascript.clipboard:
     https://chatgpt.com: access-paste
     https://git.outfoxxed.me: access-paste
     https://github.com: access-paste
     https://learn.microsoft.com: access-paste
     https://www.lorenzobettini.it: access-paste
+    https://zmk.dev: access-paste
