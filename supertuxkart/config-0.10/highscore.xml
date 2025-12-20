@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<highscores version="4">
+  <highscore track-name    ="volcano_island"
+             number-karts  ="9"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="2"
+             reverse       ="true">
+             <entry time    ="206.582"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="volcano_island"
+             number-karts  ="6"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="2"
+             reverse       ="false">
+             <entry time    ="166.186"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="snowtuxpeak"
+             number-karts  ="20"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="138.507"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+             <entry time    ="163.567"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="sandtrack"
+             number-karts  ="9"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="10"
+             reverse       ="true">
+             <entry time    ="589.949"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+  </highscore>
+  <highscore track-name    ="sandtrack"
+             number-karts  ="1"
+             difficulty    ="2"
+             hscore-type   ="HST_STD_TIMETRIAL"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="138.056"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+             <entry time    ="138.715"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+             <entry time    ="142.314"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+             <entry time    ="151.088"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+             <entry time    ="156.781"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="sandtrack"
+             number-karts  ="16"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="152.648"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="ravenbridge_mansion"
+             number-karts  ="20"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="166.88"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="scotland"
+             number-karts  ="9"
+             difficulty    ="0"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="true">
+             <entry time    ="225.651"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="scotland"
+             number-karts  ="9"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="168.323"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+  </highscore>
+  <highscore track-name    ="scotland"
+             number-karts  ="20"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="147.569"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="cornfield_crossing"
+             number-karts  ="9"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="true">
+             <entry time    ="175.096"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="cornfield_crossing"
+             number-karts  ="6"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="180.567"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="cornfield_crossing"
+             number-karts  ="7"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="153.339"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="cornfield_crossing"
+             number-karts  ="20"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="151.766"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="abyss"
+             number-karts  ="16"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="163.34"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="abyss"
+             number-karts  ="20"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="161.271"
+                    name    ="sebiTheRacer2904"
+                    kartname="tux"/>
+  </highscore>
+  <highscore track-name    ="snowtuxpeak"
+             number-karts  ="7"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="117.682"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+  </highscore>
+  <highscore track-name    ="zengarden"
+             number-karts  ="7"
+             difficulty    ="2"
+             hscore-type   ="HST_STD_TIMETRIAL"
+             number-of-laps="4"
+             reverse       ="false">
+             <entry time    ="114.075"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+  </highscore>
+  <highscore track-name    ="hacienda"
+             number-karts  ="6"
+             difficulty    ="2"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="137.581"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+             <entry time    ="137.712"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+  </highscore>
+  <highscore track-name    ="cocoa_temple"
+             number-karts  ="1"
+             difficulty    ="2"
+             hscore-type   ="HST_STD_TIMETRIAL"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="126.3"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+             <entry time    ="127.858"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+             <entry time    ="147.863"
+                    name    ="sebiTheRacer2904"
+                    kartname="konqi"/>
+  </highscore>
+</highscores>
